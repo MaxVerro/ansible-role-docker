@@ -1,5 +1,6 @@
-Role Name
+Ansible Role Docker
 =========
+[![Build Status](https://travis-ci.org/MaxVerro/ansible-role-docker.svg?branch=master)](https://travis-ci.org/MaxVerro/ansible-role-docker)
 
 An Ansible Role that install [Docker](https://www.docker.com) on Ubuntu (for now).
 
